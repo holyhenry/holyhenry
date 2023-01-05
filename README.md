@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @holyhenry
 - 👀 I’m interested in control theory and multi-agent robotics
-- 🌱 I’m currently learning data driven control techniques like MPC or network theory
+- 🌱 I’m currently learning data driven control techniques and network theory
 - 💞️ I’m looking to collaborate on different kinds of industrial robotics and autonomous car project
 - 📫 email: henryc26 at uw dot edu
 
